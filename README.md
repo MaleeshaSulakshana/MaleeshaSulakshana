@@ -14,7 +14,7 @@
 
 <div align="center">
 
-📍 **Darwin, NT, Australia** &nbsp;|&nbsp; 🎓 **MIT (Software Engineering) @ CDU** &nbsp;|&nbsp; ✅ **Right to Work in Australia**
+📍 **Darwin, NT, Australia** &nbsp;|&nbsp; 🎓 **MIT (Software Engineering) @ CDU**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MaleeshaSulakshana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaleeshaSulakshana)
 [![GitHub](https://img.shields.io/badge/GitHub-MaleeshaSulakshana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaleeshaSulakshana)
