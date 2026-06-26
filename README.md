@@ -34,7 +34,6 @@ class MaleeshaJayasinghe:
         self.role       = "Software Engineer"
         self.location   = "Darwin, NT, Australia 🇦🇺"
         self.education  = "MIT (Software Engineering) @ Charles Darwin University"
-        self.gpa        = "5.25 / 7.0"
         self.experience = "4+ years in production systems"
         self.focus      = ["API Engineering", "Full-Stack Dev", "Machine Learning", "Cloud (AWS)"]
         self.languages  = ["Python 🐍", "C# / .NET", "Node.js", "Java", "PHP"]
