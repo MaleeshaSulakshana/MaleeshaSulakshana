@@ -193,7 +193,7 @@ Delivered a complete third-party API integration for a client system at Veracity
 
 | Degree | Institution | Period | Result |
 |--------|------------|--------|--------|
-| 🎓 **Master of IT (Software Engineering)** | Charles Darwin University, Darwin 🇦🇺 | 2025 – 2026 | **GPA 5.25** · Final Semester |
+| 🎓 **Master of IT (Software Engineering)** | Charles Darwin University, Darwin 🇦🇺 | 2025 – 2026 | **GPA 5.15** · Final Semester |
 | 🎓 **BSc (Hons) Software Engineering** | Plymouth University (UK) / NSBM Green University, Sri Lanka | 2018 – 2021 | **2nd Class Upper Division** |
 
 ---
@@ -221,7 +221,7 @@ Delivered a complete third-party API integration for a client system at Veracity
 |---|---|
 | 🚀 **Full-Stack Delivery, End-to-End** | 4+ years building & shipping production systems — from API and DB design to cloud deployment on AWS |
 | 🤖 **ML & AI Experience** | Hands-on with deep learning models, computer vision pipelines, and ML-backed APIs in real R&D environments |
-| 🎓 **Strong Academic Foundation** | 5.25 GPA in MIT (SE) at CDU, built on a BSc (Hons) SE with Second Class Upper Division |
+| 🎓 **Strong Academic Foundation** | 5.15 GPA in MIT (SE) at CDU, built on a BSc (Hons) SE with Second Class Upper Division |
 | ⚡ **Fast Learner, Adaptable** | Proven ability to pick up new frameworks quickly — across .NET, Python, Node.js, ML, and cloud platforms |
 
 ---
