@@ -15,7 +15,7 @@
 <a href="mailto:mpmsulakshana98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/MaleeshaSulakshana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MaleeshaSulakshana"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.sulakshana.asia"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+<a href="https://www.sulakshana.aslkia"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 
 </div>
 
@@ -46,7 +46,7 @@ learning: [React, Angular, DevOps, "Cloud Architecture"]
 
 open_to_work: true ✅
 right_to_work_au: true 🇦🇺
-fun_fact: "I run a live business site on AWS EC2 → sulakshana.asia 🌐"
+fun_fact: "I run a live business site on AWS EC2 → sulakshana.lk 🌐"
 ```
 
 ---
@@ -114,7 +114,7 @@ fun_fact: "I run a live business site on AWS EC2 → sulakshana.asia 🌐"
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Sulakshana Truck & Body Techno](https://www.sulakshana.asia)
+### 🌐 [Sulakshana Truck & Body Techno](https://www.sulakshana.lk)
 
 > **Live production website hosted on AWS EC2**
 
@@ -224,7 +224,7 @@ Delivered a complete third-party API integration for a client system at Veracity
 |     |                                                                                  |
 | :-: | :------------------------------------------------------------------------------- |
 | 💼  | [linkedin.com/in/MaleeshaSulakshana](https://linkedin.com/in/MaleeshaSulakshana) |
-| 🌐  | [sulakshana.asia](https://www.sulakshana.asia)                                   |
+| 🌐  | [sulakshana.lk](https://www.sulakshana.lk)                                   |
 | 📍  | Darwin, NT, Australia                                                            |
 
 </div>
