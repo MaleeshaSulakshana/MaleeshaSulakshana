@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Maleesha%20Jayasinghe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20%7C%20AWS%20%7C%20Darwin%20AU%20%F0%9F%87%A6%F0%9F%87%BA&descSize=16&descAlignY=58" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Maleesha+%F0%9F%91%8B;4%2B+years+shipping+production+systems+%F0%9F%9A%80;Python+%7C+.NET+%7C+Node.js+%7C+AWS+%7C+Flask;Machine+Learning+%26+Computer+Vision+%F0%9F%A4%96;Open+to+work+in+Australia+%F0%9F%87%A6%F0%9F%87%BA+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Maleesha+%F0%9F%91%8B;6%2B+years+shipping+production+systems+%F0%9F%9A%80;Python+%7C+.NET+%7C+Node.js+%7C+AWS+%7C+Flask;Machine+Learning+%26+Computer+Vision+%F0%9F%A4%96;Open+to+work+in+Australia+%F0%9F%87%A6%F0%9F%87%BA+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,7 +28,7 @@ name: Maleesha Sulakshana Jayasinghe
 pronouns: he / him
 location: Darwin, NT, Australia 🇦🇺
 role: Software Engineer
-exp: 4+ years in production
+exp: 6+ years in production
 
 education:
   - degree: Master of IT (Software Engineering)
